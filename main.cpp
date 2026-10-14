@@ -719,9 +719,9 @@ int main()
 
     while (true)
     {
-        cout << "---------------------------" << endl;
-        cout << " Billing Management System " << endl;
-        cout << "---------------------------" << endl;
+        cout << "---------------------------------------" << endl;
+        cout << " order and inventory Management System " << endl;
+        cout << "---------------------------------------" << endl;
         cout << "1.product management" << endl;
         cout << "2.customer management" << endl;
         cout << "3.bill management" << endl;
